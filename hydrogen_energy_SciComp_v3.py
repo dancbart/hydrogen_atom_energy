@@ -41,6 +41,6 @@ for i in range(N):
         v_new = v_old - (-1/r)
         v_old = v_new
 
-    v_new = (v_old)/i
+    v_new = (v_old)/float(i)
 
 print(v_new)
