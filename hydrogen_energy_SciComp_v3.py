@@ -6,7 +6,7 @@ import random
 # Limits of integration
 a = 0
 b = 4
-N = 10 #Steps
+N = 1000 #Steps
 
 #define the displacement 'r' and the energy function 'v'
 
