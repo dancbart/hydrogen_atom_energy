@@ -1,7 +1,4 @@
-#ref: this code was written from below link to practice the if_then statements.
-#see ...monte_carlo_v? for D. Barton wave function application of below techniques.
-#https://scicomp.stackexchange.com/questions/20690/variational-monte-carlo-to-calculate-local-energy-of-hydrogen-like-ions-in-pytho
-
+#Hydrogen energy.  D. Barton
 import numpy as np
 import random
 import matplotlib.pyplot as plt
