@@ -1,4 +1,4 @@
-#Hydrogen energy.  D. Barton
+#Hydrogen energy.  D. Barton 11/20/2021
 import numpy as np
 import random
 import matplotlib.pyplot as plt
